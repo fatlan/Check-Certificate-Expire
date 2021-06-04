@@ -1,6 +1,6 @@
 # SSL Certificate Expiration Monitor Bash Scripts
 
-Must be openssl version 1.1 (otherwise openssl -checkend does not work)
+**Must be openssl version 1.1** (otherwise openssl -checkend does not work)
 
 Mail sender agent
 ~~~
