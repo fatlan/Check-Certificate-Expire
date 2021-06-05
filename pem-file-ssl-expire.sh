@@ -13,7 +13,7 @@ from="sysadmin@sysadmin.tr"
 to="sysadmins@sysadmin.tr"
 authuser="sysadmin@sysadmin.tr"
 authpass="password"
-mailserver="mta.sysadmin.tr"
+mailserver="mail.sysadmin.tr"
 port="587"
 
 # The certificate calculates the remaining days
